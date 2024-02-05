@@ -54,4 +54,3 @@ In this interview, you will be tasked with developing a React Native application
 28. Commit the initial project files and subsequent changes.
 29. Push the code to the GitHub repository. Please ensure your repository is not private and share back the repository to [pssd_management@mywave.biz](mailto:pssd_management@mywave.biz)
 
-Make sure to update the README with instructions on how to use the search and sort features and any additional information related to these functionalities.
