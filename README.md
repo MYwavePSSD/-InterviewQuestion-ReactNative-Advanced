@@ -52,6 +52,6 @@ In this interview, you will be tasked with developing a React Native application
 26. Create a new GitHub repository for the Expo project.
 27. Initialize a git repository locally and connect it to the GitHub repository.
 28. Commit the initial project files and subsequent changes.
-29. Push the code to the GitHub repository.
+29. Push the code to the GitHub repository. Please ensure your repository is not private and share back the repository to [pssd_management@mywave.biz](mailto:pssd_management@mywave.biz)
 
-Make sure to update the README with instructions on how to use the search and sort features and any additional information related to these functionalities. This task list covers the integration of search and sort features along with the existing requirements.
+Make sure to update the README with instructions on how to use the search and sort features and any additional information related to these functionalities.
